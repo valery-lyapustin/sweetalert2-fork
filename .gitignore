@@ -5,3 +5,4 @@ cypress/fixtures
 cypress/screenshots
 .idea
 .vscode
+.history
